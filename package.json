@@ -1,6 +1,6 @@
 {
   "name": "js.user",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "User class",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/infotechnohelp/js.user/issues"
   },
-  "homepage": "https://github.com/infotechnohelp/js.user#readme"
+  "homepage": "https://github.com/infotechnohelp/js.user#readme",
+  "dependencies": {
+    "@infotechnohelp/js.helper": "^1.3.0"
+  }
 }
